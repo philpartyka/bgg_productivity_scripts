@@ -19,4 +19,5 @@ The Geekmail Message Presets is the most robust of the scripts.  It adds buttons
 ## Future plans
 - I will combine all these scripts into one big userscript.  This one userscript will allow the users to enable or disable certain features.
 - I want to let the user add and create their own messages and buttons on the geekmail script
+- allow the user to choose their default currency and language to view on their respective pages
 
