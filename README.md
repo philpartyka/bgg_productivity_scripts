@@ -23,4 +23,10 @@ The Geekmail Message Presets is the most robust of the scripts.  It adds buttons
 
 ## Examples of the Message presets
 Comparison of the Message page without the script and with the script enabled
-
+![comparison](screenshots/message%20preset%20comparison.png)
+Shipping popup (with price prefilled from the listing mentioned in the message body)
+![shipping](screenshots/shipping%20popup.png)
+Tracking Popup 
+![tracking](screenshots/tracking%20popup.png)
+Away Popup (for when I will be away for X days)
+![away](screenshots/away%20popup.png)
